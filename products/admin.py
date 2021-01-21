@@ -25,4 +25,3 @@ class CategoryAdmin(admin.ModelAdmin):
 # Register your models here.
 admin.site.register(Product, ProductAdmin)
 admin.site.register(Category, CategoryAdmin)
-
